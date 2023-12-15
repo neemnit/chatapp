@@ -1,0 +1,21 @@
+{"contacts":[{
+    "id":1,
+    "name":"Sanjeev",
+    "message":[],
+    "profilePic":"https://www.iamhja.com/wp-content/uploads/2020/03/whatsapp-2Bdp-2Bfor-2Bboys-2Bhd.jpg"
+},
+{
+    "id":2,
+    "name":"Kamlesh",
+    "message":[],
+    "profilePic":"https://www.iamhja.com/wp-content/uploads/2020/03/whatsapp-2Bdp-2Bfor-2Bboys-2Bhd.jpg"
+},
+{
+    "id":3,
+    "name":"Ganesh",
+    "message":[],
+    "profilePic":"https://www.iamhja.com/wp-content/uploads/2020/03/whatsapp-2Bdp-2Bfor-2Bboys-2Bhd.jpg"
+
+}
+]
+}
